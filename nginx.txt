@@ -1,0 +1,7 @@
+cd /etc/nginx/
+
+nginx.conf
+
+sudo nano nginx.conf
+
+index.php
